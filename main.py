@@ -1,6 +1,6 @@
 from interactions import Client, Intents, listen
 from interactions.api.events import MessageCreate
-
+#felix da o boga
 from variaveis.configs import get_configs
 import glob
 
